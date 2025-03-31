@@ -2,7 +2,7 @@
 
 # **Documentación del Proyecto "Cocinero Caótico"**  
 
-r
+
 **Se mantuvo la propuesta "Cocinero Caótico" de Juan José Builes como proyecto final.** Cuando le presenté mi interés en unirnos, él aceptó porque ya hemos trabajado juntos antes y sabemos que nos complementamos bien. Además, con dos personas podemos repartir mejor las tareas y optimizar el tiempo.  
 
 **Ricardo Guerrero: Me uní a este proyecto porque la propuesta de José era más sólida y me gustó desde el principio.** Ya hemos estado en varios proyectos anteriores y tenemos buena dinámica de equipo. Al trabajar juntos en "Cocinero Caótico", se que podemos desarrollar algo más completo y entretenido.
@@ -17,12 +17,25 @@ r
 3. [Instrucciones para Ejecutar](#instrucciones-para-ejecutar)  
 4. [Recursos de Terceros](#recursos-de-terceros)  
 5. [Estado Actual del Proyecto](#estado-actual-del-proyecto)  
-6. [Licencia](#licencia)  
 
 ---
 
 ## **Descripción del Juego**  
 Eres un chef en una cocina mágica donde los ingredientes tienen vida propia. Debes atraparlos y combinarlos en la olla siguiendo recetas específicas antes de que se acabe el tiempo.  
+
+## **Clases Principales Implementadas**
+
+El proyecto utiliza las siguientes clases clave para su funcionamiento:
+
+| Clase               | Responsabilidad |
+|---------------------|----------------|
+| `PlayerController`  | Controla el movimiento del chef y sus interacciones con los ingredientes |
+| `TomateRodante`     | Implementa el comportamiento dinámico del tomate usando un sistema de estados (quieto/rodando/atrapado) |
+| `ItemManager`       | Gestiona la recolección, arrastre y manipulación de los ingredientes |
+| `Pot`               | Maneja la lógica de cocción, validación de ingredientes y progreso de recetas |
+| `GameManager`       | Controla el flujo del juego, progresión entre estados y comunicación entre sistemas |
+
+
 
 Mecánicas principales:  
 - Movimiento del chef con teclas WASD  
