@@ -1,3 +1,5 @@
+## Propuesta corregida: https://docs.google.com/document/d/1FYWLtEmmanl9E3V3gNutlPzZQM0l2TUVDaoLUZikJzQ/edit?usp=sharing
+
 # **Documentación del Proyecto "Cocinero Caótico"**  
 
 
