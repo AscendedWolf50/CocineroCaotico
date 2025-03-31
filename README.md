@@ -1,9 +1,9 @@
-**Documentación del Proyecto "Cocinero Caótico"**  
+# **Documentación del Proyecto "Cocinero Caótico"**  
 **Autores**: Ricardo Guerrero y Juan José Builes  
 
 ---
 
-**Tabla de Contenidos**  
+### **Tabla de Contenidos**  
 1. [Descripción del Juego](#descripción-del-juego)  
 2. [Requisitos del Sistema](#requisitos-del-sistema)  
 3. [Instrucciones para Ejecutar](#instrucciones-para-ejecutar)  
@@ -13,7 +13,7 @@
 
 ---
 
-**Descripción del Juego**  
+## **Descripción del Juego**  
 Eres un chef en una cocina mágica donde los ingredientes tienen vida propia. Debes atraparlos y combinarlos en la olla siguiendo recetas específicas antes de que se acabe el tiempo.  
 
 Mecánicas principales:  
@@ -33,7 +33,7 @@ Mecánicas principales:
 
 ---
 
-**Instrucciones para Ejecutar**  
+#### **Instrucciones para Ejecutar**  
 **Versión Ejecutable (sin código fuente)**  
 1. Descargar:  
    - Accede al enlace de Google Drive (https://drive.google.com/drive/folders/1P01Lpgc7NVuN1eQSHs28KESXESnkGRP2) y descarga la carpeta Ejecutable_Cocinero  
@@ -46,7 +46,7 @@ Nota: Si Windows bloquea el archivo, haz clic en "Más información" y luego en 
 
 ---
 
-**Recursos de Terceros**  
+#### **Recursos de Terceros**  
 
 | Recurso               | Enlace | Licencia | Uso en el Proyecto |  
 |-----------------------|--------|----------|--------------------|  
