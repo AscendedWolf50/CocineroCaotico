@@ -1,4 +1,10 @@
 # **Documentación del Proyecto "Cocinero Caótico"**  
+
+
+**Se mantuvo la propuesta "Cocinero Caótico" de Juan José Builes como proyecto final.** Cuando le presenté mi interés en unirnos, él aceptó porque ya hemos trabajado juntos antes y sabemos que nos complementamos bien. Además, con dos personas podemos repartir mejor las tareas y optimizar el tiempo.  
+
+**Ricardo Guerrero: Me uní a este proyecto porque la propuesta de José era más sólida y me gustó desde el principio.** Ya hemos estado en varios proyectos anteriores y tenemos buena dinámica de equipo. Al trabajar juntos en "Cocinero Caótico", se que podemos desarrollar algo más completo y entretenido.
+
 **Autores**: Ricardo Guerrero y Juan José Builes  
 
 ---
